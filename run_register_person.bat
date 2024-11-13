@@ -1,0 +1,2 @@
+python RegisterPerson.py
+pause
